@@ -1,7 +1,6 @@
 ## Hello, I’m Tushar Koundal 👋
 
-I am a second-year Computer Science and Engineering student at Chitkara University with a keen interest in **web development** and **backend technologies**. I am committed to continuous learning and applying my skills to real-world projects.
-
+"I’m a second-year Computer Science and Engineering student at Chitkara University, interested in web development and backend technologies. I enjoy learning new things and applying them to real-world projects to improve my skills and knowledge."
 ### 🔭 I’m currently working on:
 - Developing a **Personal Finance Tracker** using **Node.js**, **Express**, and **MongoDB**.
 - Implementing **Data Structures and Algorithms** in **Java** to strengthen my problem-solving capabilities.
