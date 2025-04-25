@@ -42,4 +42,6 @@ I’m a second-year Computer Science and Engineering student at Chitkara Univers
 ### Fun fact:
 I enjoy solving complex problems and applying theoretical knowledge to practical projects. I’m constantly striving to improve my skills and stay updated with the latest technologies in the field. 💻📚
 
-Thank you for visiting my GitHub profile. Feel free to explore my projects below and contact me if you'd like to collaborate or discuss any opportunities.
+I also value my leisure time, which helps me keep my mind sharp and my coding skills focused.
+
+Thank you for visiting my GitHub profile! Feel free to explore my projects below and contact me if you'd like to collaborate or discuss any opportunities.
