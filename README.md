@@ -36,6 +36,7 @@ I’m a second-year Computer Science and Engineering student at Chitkara Univers
 - **Email:** [tusharkoundal913@gmail.com](mailto:tusharkoundal913@gmail.com)
 - **LinkedIn:** [Tushar Koundal](https://www.linkedin.com/in/tushar-koundal-4435aa2b1)
 - **GitHub:** [TusharK-09](https://github.com/TusharK-09)
+- - **Check My Progress:** [Tushar Koundal](https://codolio.com/profile/tushar09)
 
 ---
 
