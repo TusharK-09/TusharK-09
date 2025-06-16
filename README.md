@@ -1,6 +1,6 @@
 ## Hello, I’m Tushar Koundal 👋
 
-I’m a second-year Computer Science and Engineering student at Chitkara University, interested in **web development** and **backend technologies**. I enjoy learning new things and applying them to real-world projects to improve my skills and knowledge.
+I’m a Third-year Computer Science and Engineering student at Chitkara University, interested in **web development** and **backend technologies**. I enjoy learning new things and applying them to real-world projects to improve my skills and knowledge.
 
 ---
 
